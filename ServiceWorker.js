@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-My project-0.1.0";
+const cacheName = "TCIT-iDCIM-EETARP-0.1.0";
 const contentToCache = [
     "Build/WebGPU.loader.js",
     "Build/WebGPU.framework.js",
