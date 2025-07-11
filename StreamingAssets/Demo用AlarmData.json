@@ -1,0 +1,352 @@
+[
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "WE",
+    "status": "Progress",
+    "dateTimeString": "2025-06-17T17:56:04",
+    "note": "Smoke concentration detected, possible fire alarm."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Done",
+    "dateTimeString": "2025-07-09T06:35:21",
+    "note": "Water leak sensor triggered alarm in main server room."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Done",
+    "dateTimeString": "2025-06-30T09:52:20",
+    "note": "Sensor malfunction caused abnormal data."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "WE",
+    "status": "Pending",
+    "dateTimeString": "2025-06-19T11:54:24",
+    "note": "Indoor humidity exceeded warning level."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "EE",
+    "status": "Pending",
+    "dateTimeString": "2025-06-18T14:24:10",
+    "note": "Power monitoring system is unresponsive."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-17T01:57:49",
+    "note": "Power line short-circuited abnormally."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "EE",
+    "status": "Progress",
+    "dateTimeString": "2025-06-22T11:34:57",
+    "note": "Data center air conditioning compressor stopped abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-28T15:25:50",
+    "note": "Sensor malfunction caused abnormal data."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "EE",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-13T12:37:19",
+    "note": "Power line short-circuited abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "PS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-20T07:49:43",
+    "note": "Backup generator voltage is unstable."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-07-09T05:49:00",
+    "note": "Water leak sensor triggered alarm in main server room."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "ACMV",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-16T10:40:14",
+    "note": "Main exhaust fan speed is below standard."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "WE",
+    "status": "Pending",
+    "dateTimeString": "2025-06-30T05:30:15",
+    "note": "UPS backup battery temperature is too high."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-13T17:58:15",
+    "note": "Temperature sensor fluctuating abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-18T10:59:01",
+    "note": "Smoke concentration detected, possible fire alarm."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "FS",
+    "status": "Progress",
+    "dateTimeString": "2025-07-08T09:48:24",
+    "note": "Indoor humidity exceeded warning level."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Done",
+    "dateTimeString": "2025-06-26T13:21:40",
+    "note": "Sensor malfunction caused abnormal data."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "FS",
+    "status": "Pending",
+    "dateTimeString": "2025-06-22T21:59:24",
+    "note": "Power line short-circuited abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Pending",
+    "dateTimeString": "2025-07-08T03:46:16",
+    "note": "Backup generator voltage is unstable."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Unresolved",
+    "dateTimeString": "2025-07-02T21:30:39",
+    "note": "Abnormal pressure drop in cooling system."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "EE",
+    "status": "Progress",
+    "dateTimeString": "2025-06-15T18:44:43",
+    "note": "Smoke concentration detected, possible fire alarm."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "WE",
+    "status": "Done",
+    "dateTimeString": "2025-06-21T06:45:41",
+    "note": "Smoke concentration detected, possible fire alarm."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "WE",
+    "status": "Pending",
+    "dateTimeString": "2025-06-16T11:10:27",
+    "note": "Rack current exceeded preset limit."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Progress",
+    "dateTimeString": "2025-06-16T19:28:11",
+    "note": "Backup generator voltage is unstable."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-20T15:03:47",
+    "note": "Data center air conditioning compressor stopped abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "PS",
+    "status": "Pending",
+    "dateTimeString": "2025-07-04T19:23:49",
+    "note": "Abnormal pressure drop in cooling system."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "WE",
+    "status": "Progress",
+    "dateTimeString": "2025-06-13T12:16:00",
+    "note": "Power monitoring system is unresponsive."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Done",
+    "dateTimeString": "2025-06-21T11:06:48",
+    "note": "Temperature sensor fluctuating abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-14T02:50:47",
+    "note": "Smoke concentration detected, possible fire alarm."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "EE",
+    "status": "Done",
+    "dateTimeString": "2025-06-25T08:38:44",
+    "note": "Main exhaust fan speed is below standard."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Done",
+    "dateTimeString": "2025-07-10T04:27:19",
+    "note": "Data center air conditioning compressor stopped abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Progress",
+    "dateTimeString": "2025-06-21T21:59:01",
+    "note": "Monitoring system data interrupted."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "WE",
+    "status": "Unresolved",
+    "dateTimeString": "2025-06-29T16:43:23",
+    "note": "Power monitoring system is unresponsive."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "ACMV",
+    "status": "Done",
+    "dateTimeString": "2025-07-07T04:02:50",
+    "note": "Backup generator voltage is unstable."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Done",
+    "dateTimeString": "2025-07-06T05:57:32",
+    "note": "Power monitoring system is unresponsive."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "WE",
+    "status": "Done",
+    "dateTimeString": "2025-06-11T06:01:06",
+    "note": "Air conditioning fan is making unusual noise."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Progress",
+    "dateTimeString": "2025-06-27T04:51:19",
+    "note": "Chiller unit stopped unexpectedly."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Progress",
+    "dateTimeString": "2025-06-20T01:30:53",
+    "note": "Power line short-circuited abnormally."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-07-07T05:14:42",
+    "note": "Water leak sensor triggered alarm in main server room."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Done",
+    "dateTimeString": "2025-06-30T18:52:45",
+    "note": "Backup generator voltage is unstable."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "EE",
+    "status": "Progress",
+    "dateTimeString": "2025-07-03T03:50:52",
+    "note": "UPS backup battery temperature is too high."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "FS",
+    "status": "Unresolved",
+    "dateTimeString": "2025-07-08T02:39:46",
+    "note": "Power monitoring system is unresponsive."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Pending",
+    "dateTimeString": "2025-06-30T05:05:36",
+    "note": "Monitoring system data interrupted."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Progress",
+    "dateTimeString": "2025-06-21T08:03:47",
+    "note": "Distribution box tripped abnormally."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Progress",
+    "dateTimeString": "2025-07-10T05:28:27",
+    "note": "Sensor malfunction caused abnormal data."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "PS",
+    "status": "Done",
+    "dateTimeString": "2025-07-03T23:33:16",
+    "note": "Alarm module triggered without source device."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "WE",
+    "status": "Pending",
+    "dateTimeString": "2025-06-18T13:43:22",
+    "note": "Battery life warning threshold reached."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "FS",
+    "status": "Done",
+    "dateTimeString": "2025-06-23T18:52:53",
+    "note": "Insufficient flow in condensate pump."
+  },
+  {
+    "alarmType": "Warning",
+    "alarmSystem": "ACMV",
+    "status": "Pending",
+    "dateTimeString": "2025-07-04T18:33:03",
+    "note": "Main exhaust fan speed is below standard."
+  },
+  {
+    "alarmType": "Critical",
+    "alarmSystem": "ACMV",
+    "status": "Progress",
+    "dateTimeString": "2025-06-17T23:05:24",
+    "note": "Power line short-circuited abnormally."
+  }
+]
